@@ -1,6 +1,6 @@
 # Kabhilan V. S
 
-**Full-Stack Developer | Machine Learning & Vision Systems**
+**Full-Stack Developer | Machine Learning**
 
 I am a postgraduate student (M.Sc. Software Systems) building accessible mobile applications and integrating Machine Learning models into real-world environments. I focus on clean architecture and practical utility.
 
