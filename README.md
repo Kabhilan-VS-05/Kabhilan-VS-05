@@ -47,6 +47,11 @@ I am a postgraduate student (M.Sc. Software Systems) building accessible mobile 
 ---
 
 ### Analytics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kabhilan-VS-05&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kabhilan-VS-05&theme=github_dark" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kabhilan-VS-05&theme=github_dark" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kabhilan-VS-05&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhilan-VS-05&layout=compact&theme=buefy&hide_border=true&langs_count=6" height="160" />
