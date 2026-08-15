@@ -1,4 +1,4 @@
-# Kabhilan V. S
+# Kabhilan VS
 
 ### Full Stack Developer | AI & Accessibility-Focused Applications
 
