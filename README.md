@@ -87,22 +87,12 @@ Whether I am building a highly available commercial API, a desktop tool for moni
 
 ---
 
-## GitHub Analytics & Contributions
+## GitHub Analytics
 
 <div align="center">
 
-<!-- Animated GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabhilan-vs-05&bg_color=0D1117&color=38BDF8&line=2563EB&point=F43F5E&area=true&hide_border=true" width="95%" alt="Kabhilan's Contribution Graph" />
-
-<br/><br/>
-
-<!-- Live GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=kabhilan-vs-05&theme=tokyonight&no-frame=true&no-bg=true&margin_w=10" alt="Trophies" />
-
-<br/>
-
-<!-- Animated Contribution Snake -->
-<img src="https://raw.githubusercontent.com/kabhilan-vs-05/kabhilan-vs-05/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="95%" onerror="this.style.display='none'"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kabhilan-vs-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabhilan-vs-05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
