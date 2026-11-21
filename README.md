@@ -6,6 +6,8 @@
 
 Integrated M.Sc. Software Systems, Kongu Engineering College, Erode
 
+<img src="https://raw.githubusercontent.com/Kabhilan-VS-05/Kabhilan-VS-05/main/download%20(2).gif" width="480" alt="Kabhilan V. S developer animation"/>
+
 <p>
 <a href="https://linkedin.com/in/kabhilan-vs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://kabhilan-vs-05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://kabhilan-vs-05.github.io/Portfolio/Kabhilan_VS_23ISR021_Resume.pdf"><img src="https://img.shields.io/badge/Resume-B22222?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a> <a href="mailto:kabhilan2905@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://leetcode.com/u/KABHILAN_VS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
