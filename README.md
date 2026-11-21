@@ -79,6 +79,19 @@ Real-time monitoring platform that tracks API latency, failures and downtime, wi
 - [Face-Recognition-System](https://github.com/Kabhilan-VS-05/Face-Recognition-System): face recognition attendance and detection
 - Community Guardian: healthcare API monitoring system, GHCI 2025 Round 2
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kabhilan-VS-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhilan-VS-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Kabhilan-VS-05&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhilan-VS-05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
 ## Leadership
 
 - Executive Head, Coding Club, Department of Computer Technology (PG)
