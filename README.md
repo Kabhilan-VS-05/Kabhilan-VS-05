@@ -134,6 +134,8 @@ Also: FAISS vector search, YOLOv8, sentence embeddings, REST APIs.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhilan-VS-05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/Kabhilan-VS-05/Kabhilan-VS-05/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
 </div>
 
 ## Leadership
