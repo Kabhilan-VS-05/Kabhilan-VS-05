@@ -6,7 +6,7 @@
 
 Integrated M.Sc. Software Systems, Kongu Engineering College, Erode
 
-<img src="https://raw.githubusercontent.com/Kabhilan-VS-05/Kabhilan-VS-05/main/download%20(2).gif" width="480" alt="Kabhilan V. S developer animation"/>
+<img src="https://raw.githubusercontent.com/Kabhilan-VS-05/Kabhilan-VS-05/main/download%20(2).gif" width="360" alt="Kabhilan V. S developer animation"/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-2EA043?style=for-the-badge" alt="Open to internships"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%7C%20AI%20%7C%20FULL--STACK-0A66C2?style=for-the-badge" alt="Focus"/>
@@ -19,11 +19,13 @@ Integrated M.Sc. Software Systems, Kongu Engineering College, Erode
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
 I build full-stack and AI-powered systems, from semantic search engines to real-time API monitors, with a focus on clean architecture and software that works end to end. I have shipped a production platform for a real client, led teams at six or more national hackathons, and won prizes at four national-level competitions. I am looking for a software or AI internship where I can contribute from day one.
 
-## Recognition
+<h2 align="center">Recognition</h2>
+
+<div align="center">
 
 <table>
 <tr><th>Result</th><th>Event</th><th>Project</th></tr>
@@ -33,9 +35,11 @@ I build full-stack and AI-powered systems, from semantic search engines to real-
 <tr><td><b>1st Prize</b></td><td>Quantum Fest 2K25</td><td>Crypto analysis with ransomware detection</td></tr>
 </table>
 
-All certificates: [certificates repository](https://github.com/Kabhilan-VS-05/certificates)
+All certificates: <a href="https://github.com/Kabhilan-VS-05/certificates">certificates repository</a>
 
-## Featured Projects
+</div>
+
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
@@ -92,7 +96,9 @@ Stack: Python, Flask, REST APIs, MySQL.
 
 </details>
 
-## Technical Skills
+<h2 align="center">Technical Skills</h2>
+
+<div align="center">
 
 <table>
 <tr><td><b>Languages</b></td><td>
@@ -121,24 +127,22 @@ Stack: Python, Flask, REST APIs, MySQL.
 </td></tr>
 </table>
 
-Also: FAISS vector search, YOLOv8, sentence embeddings, REST APIs.
+<sub>Also: FAISS vector search, YOLOv8, sentence embeddings, REST APIs</sub>
 
-## GitHub Activity
+</div>
+
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kabhilan-VS-05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhilan-VS-05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Kabhilan-VS-05&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhilan-VS-05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/Kabhilan-VS-05/Kabhilan-VS-05/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
-## Leadership
+<h2 align="center">Leadership</h2>
 
 - Executive Head, Coding Club, Department of Computer Technology (PG)
 - Web Development Intern, Unified Mentor
