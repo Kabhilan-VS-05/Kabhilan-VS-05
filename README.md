@@ -54,20 +54,20 @@ Also: FAISS, YOLOv8, sentence embeddings, Ollama, REST APIs.
 
 ## Featured Projects
 
-**EUREKA: Semantic Job Role Mapping**
-Maps free-text or voice job descriptions to NCO-2015 occupation codes using FAISS vector search and fine-tuned sentence embeddings.
+**EUREKA: Semantic Job Role Mapping**<br/>
+Maps free-text or voice job descriptions to NCO-2015 occupation codes using FAISS vector search and fine-tuned sentence embeddings.<br/>
 `Python` `Flask` `PostgreSQL` `FAISS`
 
-**[A1 Water Tech](https://github.com/Kabhilan-VS-05/a1-water-tech): Full-Stack Platform**
-End-to-end commercial platform for a real client: React web portal, Flutter mobile app, Node.js and Flask backend, with live database replication. Built against evolving client requirements and running in production.
+**[A1 Water Tech](https://github.com/Kabhilan-VS-05/a1-water-tech): Full-Stack Platform**<br/>
+End-to-end commercial platform for a real client: React web portal, Flutter mobile app, Node.js and Flask backend, with live database replication. Built against evolving client requirements and running in production.<br/>
 `React` `Flutter` `Node.js` `Flask` `Firebase`
 
-**PoachDetect: Anti-Poaching Vision System**
-Edge-optimised computer vision pipeline that detects unauthorised human activity in protected wildlife zones.
+**PoachDetect: Anti-Poaching Vision System**<br/>
+Edge-optimised computer vision pipeline that detects unauthorised human activity in protected wildlife zones.<br/>
 `Python` `PyTorch` `OpenCV`
 
-**[API Health Monitor](https://github.com/Kabhilan-VS-05/API-Monitoring): Telemetry Service**
-Real-time monitoring platform that tracks API latency, failures and downtime, with automated alerts.
+**[API Health Monitor](https://github.com/Kabhilan-VS-05/API-Monitoring): Telemetry Service**<br/>
+Real-time monitoring platform that tracks API latency, failures and downtime, with automated alerts.<br/>
 `Python` `Flask` `REST APIs` `MySQL`
 
 ## More Projects
