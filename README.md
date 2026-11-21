@@ -6,12 +6,16 @@
 
 Integrated M.Sc. Software Systems, Kongu Engineering College, Erode
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/Kabhilan-VS-05/Kabhilan-VS-05/main/download%20(2).gif" width="360" alt="Kabhilan V. S developer animation"/>
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-2EA043?style=for-the-badge" alt="Open to internships"/>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%7C%20AI%20%7C%20FULL--STACK-0A66C2?style=for-the-badge" alt="Focus"/>
+</p>
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/kabhilan-vs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://kabhilan-vs-05.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> <a href="https://kabhilan-vs-05.github.io/Portfolio/Kabhilan_VS_23ISR021_Resume.pdf"><img src="https://img.shields.io/badge/Resume-B22222?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a> <a href="mailto:kabhilan2905@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://leetcode.com/u/KABHILAN_VS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a> <a href="https://www.geeksforgeeks.org/profile/kabhilanvs"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
 
